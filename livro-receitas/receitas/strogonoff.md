@@ -1,6 +1,6 @@
 # Strogonoff de Frango :chicken:
 
-	### Ingredientes
+### Ingredientes
 
 - Parada 1
 
